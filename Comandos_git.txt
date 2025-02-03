@@ -3,3 +3,7 @@ git status - status
 git add nome_arquivo
 git commit -m "msg"
 git log - mostra o log de todos os commits
+
+
+
+Fluxo - desenho
