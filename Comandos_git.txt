@@ -1,0 +1,4 @@
+git init . - cria um repo git
+git status - status
+git add nome_arquivo
+git commit -m "msg"
