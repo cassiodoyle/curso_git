@@ -2,3 +2,7 @@ Este arquivo contem comandos secundários
 
 Primeiro comando
 Segundo comando
+
+
+Comandos mais genéricos
+comandos estranhos
